@@ -71,7 +71,7 @@ PRODUCT_PACKAGES += \
     libOplusSecurity \
     ExtensionsService \
     OplusAppPlatform \
-    OplusCamera \
-    OppoGallery2 \
+    # OplusCamera \
+    # OppoGallery2 \
     com.oplus.camera.unit.sdk.adapter \
     com.oplus.camera.unit.sdk
