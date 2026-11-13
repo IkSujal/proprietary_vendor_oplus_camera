@@ -42,13 +42,13 @@ PRODUCT_PACKAGES += \
     libXDocProcessSDK_system_ext \
     libYTCommon_system_ext \
     libapssuspend-jni.oplus \
-    libarcsoft_panorama_burstcapture \
+    # libarcsoft_panorama_burstcapture \
     libarcsoft_wideselfie \
     libbase-stock \
     libbsproxy \
     libcsextimpl \
     libextendfile_system_ext \
-    libjni_burstpmk \
+    # libjni_burstpmk \
     libjni_wideselfie \
     libjnisingleblur_api \
     libjnistblur_api \
